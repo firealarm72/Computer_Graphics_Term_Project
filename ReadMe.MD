@@ -10,7 +10,9 @@
 
 
 3. Development Environment
+
   OS : Tizen
+  
   Game engine : Unity
 
 
@@ -24,6 +26,7 @@
   
 
 5. Schedule
+
   Due Date	Content
 
   5/18    	Develop all characters
