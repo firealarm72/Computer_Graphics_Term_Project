@@ -25,7 +25,11 @@
 
 5. Schedule
   Due Date	Content
-  5/18	Develop all characters
-  5/28	Develop game (Score system, face book contact sync) 
-  6/15	Feedback -> upload to Tizen store
+
+  5/18    	Develop all characters
+  
+  5/28    	Develop game (Score system, face book contact sync) 
+  
+  6/15    	Feedback -> upload to Tizen store
+  
 
