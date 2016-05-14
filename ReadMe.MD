@@ -14,10 +14,14 @@
   Game engine : Unity
 
 
-4.Role
+4. Role
+
   정윤송 : Pikachu , Ji-woo Modeling
+  
   이민주 : Background, Rocket members Modeling
+  
   Programming the game app will be done together.
+  
 
 5. Schedule
   Due Date	Content
