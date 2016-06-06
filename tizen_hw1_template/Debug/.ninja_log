@@ -1,0 +1,18 @@
+# ninja log v5
+70	5171	0	src/renderer/basic_shader.o	596e0685737818c1
+5370	5770	0	src/renderer/platform/win/basic_file_loader_win.o	2557af6c67ac7568
+116	1800	0	src/renderer/basic_camera.o	c2ea57d08b5802a0
+5171	7926	0	src/sample/sample_launcher.o	bdcfb2bf413cd3b3
+3440	4905	0	src/renderer/platform/common/basic_file_loader.o	d0379b182aadbd59
+3263	7133	0	src/renderer/platform/tizen/basic_file_loader_tizen.o	5fc23371e2ec8ac5
+16	3263	0	src/gles_sample.o	63f517c727907694
+4905	7814	0	src/sample/launcher_interface.o	4e888b3ff789581d
+33	3440	0	src/renderer/basic_utils.o	1cc558f50db8f095
+53	484	0	src/renderer/basic_timer.o	70f237340b1daaec
+1800	6363	0	src/sample/sample_view.o	efe54e27f916abab
+85	5584	0	src/renderer/basic_renderer.o	f424de8130500626
+7926	8754	0	cghw1	4a6f681bfbc9774f
+484	5370	0	src/sample/coloring_view.o	670f02766f4b76a3
+535	3503	0	src/renderer/basic_shader.o	596e0685737818c1
+12	3804	0	src/renderer/basic_renderer.o	f424de8130500626
+3804	4842	0	cghw1	4a6f681bfbc9774f
