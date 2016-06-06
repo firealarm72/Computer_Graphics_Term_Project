@@ -18,21 +18,23 @@
 
 4. Role
 
-  정윤송 : Pikachu , Ji-woo Modeling
+  정윤송 : Background Modeling, programming game app
   
-  이민주 : Background, Rocket members Modeling
+  이민주 : Pikachu, Rocket Team member and Ji-woo Modeling
   
-  Programming the game app will be done together.
+
   
 
 5. Schedule
 
   Due Date	Content
 
-  5/18    	Develop all characters
+  6/6   	  Develop Game Logic and GUI(simple game map and earning game logic)
+            Modeling Pikcachu
   
-  5/28    	Develop game (Score system, face book contact sync) 
+  6/12      Model other characters-Ji-Woo and Rocket members
   
-  6/15    	Feedback -> upload to Tizen store
+  6/24    	Add background music and sound effect
+            Feedback -> upload to Tizen store
   
 
