@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 0321a57eab7f75440bcfb830fc2db0c5
+timeCreated: 1466686435
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_pivot
+    100002: back1
+    100004: back2
+    100006: back3
+    100008: back4
+    100010: back5
+    100012: back6
+    100014: back7
+    100016: backBend_CTRL
+    100018: backIK
+    100020: body_CTRL
+    100022: bottom
+    100024: ear_CTRL
+    100026: group
+    100028: ikBackCurv
+    100030: L_ankle
+    100032: L_ankle_IK
+    100034: L_ankle_Pivot
+    100036: L_arm1
+    100038: L_arm2
+    100040: L_arm3
+    100042: L_arm_IK
+    100044: L_ball
+    100046: L_ball_IK
+    100048: L_ear1
+    100050: L_ear2
+    100052: L_ear_ik
+    100054: L_foot_CTRL
+    100056: L_head
+    100058: L_heelPeel_Pivot
+    100060: L_hip
+    100062: L_knee
+    100064: L_knee_CTRL
+    100066: L_swivel_Pivot
+    100068: L_toe_IK
+    100070: L_toeTap_Pivot
+    100072: L_toetip
+    100074: L_toetip_Pivot
+    100076: left
+    100078: lower_back_cluster
+    100080: lower_back_CTRL
+    100082: //RootNode
+    100084: pikachu2:Mesh
+    100086: R_ankle
+    100088: R_ankle_IK
+    100090: R_ankle_Pivot
+    100092: R_arm1
+    100094: R_arm2
+    100096: R_arm3
+    100098: R_arm_IK
+    100100: R_ball
+    100102: R_ball_IK
+    100104: R_ear1
+    100106: R_ear2
+    100108: R_ear_ik
+    100110: R_foot_CTRL
+    100112: R_head
+    100114: R_heelPeel_Pivot
+    100116: R_hip
+    100118: R_knee
+    100120: R_Knee_CTRL
+    100122: R_swivel_Pivot
+    100124: R_toe_IK
+    100126: R_toeTap_Pivot
+    100128: R_toetip
+    100130: R_toetip_Pivot
+    100132: rig_GRP
+    100134: root
+    100136: skleton_GRP
+    100138: superMover_CTRL
+    100140: tail1
+    100142: tail2
+    100144: tail3
+    100146: tail4
+    100148: tail5
+    100150: tail6
+    100152: tail_CTRL
+    100154: upper_back_cluster
+    100156: upper_back_CTRL
+    400000: arm_pivot
+    400002: back1
+    400004: back2
+    400006: back3
+    400008: back4
+    400010: back5
+    400012: back6
+    400014: back7
+    400016: backBend_CTRL
+    400018: backIK
+    400020: body_CTRL
+    400022: bottom
+    400024: ear_CTRL
+    400026: group
+    400028: ikBackCurv
+    400030: L_ankle
+    400032: L_ankle_IK
+    400034: L_ankle_Pivot
+    400036: L_arm1
+    400038: L_arm2
+    400040: L_arm3
+    400042: L_arm_IK
+    400044: L_ball
+    400046: L_ball_IK
+    400048: L_ear1
+    400050: L_ear2
+    400052: L_ear_ik
+    400054: L_foot_CTRL
+    400056: L_head
+    400058: L_heelPeel_Pivot
+    400060: L_hip
+    400062: L_knee
+    400064: L_knee_CTRL
+    400066: L_swivel_Pivot
+    400068: L_toe_IK
+    400070: L_toeTap_Pivot
+    400072: L_toetip
+    400074: L_toetip_Pivot
+    400076: left
+    400078: lower_back_cluster
+    400080: lower_back_CTRL
+    400082: //RootNode
+    400084: pikachu2:Mesh
+    400086: R_ankle
+    400088: R_ankle_IK
+    400090: R_ankle_Pivot
+    400092: R_arm1
+    400094: R_arm2
+    400096: R_arm3
+    400098: R_arm_IK
+    400100: R_ball
+    400102: R_ball_IK
+    400104: R_ear1
+    400106: R_ear2
+    400108: R_ear_ik
+    400110: R_foot_CTRL
+    400112: R_head
+    400114: R_heelPeel_Pivot
+    400116: R_hip
+    400118: R_knee
+    400120: R_Knee_CTRL
+    400122: R_swivel_Pivot
+    400124: R_toe_IK
+    400126: R_toeTap_Pivot
+    400128: R_toetip
+    400130: R_toetip_Pivot
+    400132: rig_GRP
+    400134: root
+    400136: skleton_GRP
+    400138: superMover_CTRL
+    400140: tail1
+    400142: tail2
+    400144: tail3
+    400146: tail4
+    400148: tail5
+    400150: tail6
+    400152: tail_CTRL
+    400154: upper_back_cluster
+    400156: upper_back_CTRL
+    4300000: pikachu2:Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pikachu2:Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 26
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pikachu2:Mesh
+        weight: 1
+      - path: rig_GRP
+        weight: 1
+      - path: rig_GRP/backIK
+        weight: 1
+      - path: rig_GRP/ikBackCurv
+        weight: 1
+      - path: skleton_GRP
+        weight: 1
+      - path: skleton_GRP/root
+        weight: 1
+      - path: skleton_GRP/root/back1
+        weight: 1
+      - path: skleton_GRP/root/back1/back2
+        weight: 1
+      - path: skleton_GRP/root/back1/back2/back3
+        weight: 1
+      - path: skleton_GRP/root/back1/back2/back3/back4
+        weight: 1
+      - path: skleton_GRP/root/back1/back2/back3/back4/back5
+        weight: 1
+      - path: skleton_GRP/root/back1/back2/back3/back4/back5/back6
+        weight: 1
+      - path: skleton_GRP/root/back1/back2/back3/back4/back5/back6/back7
+        weight: 1
+      - path: skleton_GRP/root/L_arm1
+        weight: 1
+      - path: skleton_GRP/root/L_arm1/L_arm2
+        weight: 1
+      - path: skleton_GRP/root/L_arm1/L_arm2/L_arm3
+        weight: 1
+      - path: skleton_GRP/root/L_head
+        weight: 1
+      - path: skleton_GRP/root/L_head/L_ear1
+        weight: 1
+      - path: skleton_GRP/root/L_head/L_ear1/L_ear2
+        weight: 1
+      - path: skleton_GRP/root/L_hip
+        weight: 1
+      - path: skleton_GRP/root/L_hip/L_knee
+        weight: 1
+      - path: skleton_GRP/root/L_hip/L_knee/L_ankle
+        weight: 1
+      - path: skleton_GRP/root/L_hip/L_knee/L_ankle/L_ball
+        weight: 1
+      - path: skleton_GRP/root/L_hip/L_knee/L_ankle/L_ball/L_toetip
+        weight: 1
+      - path: skleton_GRP/root/R_arm1
+        weight: 1
+      - path: skleton_GRP/root/R_arm1/R_arm2
+        weight: 1
+      - path: skleton_GRP/root/R_arm1/R_arm2/R_arm3
+        weight: 1
+      - path: skleton_GRP/root/R_head
+        weight: 1
+      - path: skleton_GRP/root/R_head/R_ear1
+        weight: 1
+      - path: skleton_GRP/root/R_head/R_ear1/R_ear2
+        weight: 1
+      - path: skleton_GRP/root/R_hip
+        weight: 1
+      - path: skleton_GRP/root/R_hip/R_knee
+        weight: 1
+      - path: skleton_GRP/root/R_hip/R_knee/R_ankle
+        weight: 1
+      - path: skleton_GRP/root/R_hip/R_knee/R_ankle/R_ball
+        weight: 1
+      - path: skleton_GRP/root/R_hip/R_knee/R_ankle/R_ball/R_toetip
+        weight: 1
+      - path: skleton_GRP/root/tail1
+        weight: 1
+      - path: skleton_GRP/root/tail1/tail2
+        weight: 1
+      - path: skleton_GRP/root/tail1/tail2/tail3
+        weight: 1
+      - path: skleton_GRP/root/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: skleton_GRP/root/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      - path: skleton_GRP/root/tail1/tail2/tail3/tail4/tail5/tail6
+        weight: 1
+      - path: superMover_CTRL
+        weight: 1
+      - path: superMover_CTRL/arm_pivot
+        weight: 1
+      - path: superMover_CTRL/arm_pivot/L_arm_IK
+        weight: 1
+      - path: superMover_CTRL/arm_pivot/R_arm_IK
+        weight: 1
+      - path: superMover_CTRL/body_CTRL
+        weight: 1
+      - path: superMover_CTRL/body_CTRL/backBend_CTRL
+        weight: 1
+      - path: superMover_CTRL/body_CTRL/backBend_CTRL/upper_back_CTRL
+        weight: 1
+      - path: superMover_CTRL/body_CTRL/backBend_CTRL/upper_back_CTRL/upper_back_cluster
+        weight: 1
+      - path: superMover_CTRL/body_CTRL/ear_CTRL
+        weight: 1
+      - path: superMover_CTRL/body_CTRL/ear_CTRL/L_ear_ik
+        weight: 1
+      - path: superMover_CTRL/body_CTRL/ear_CTRL/R_ear_ik
+        weight: 1
+      - path: superMover_CTRL/body_CTRL/lower_back_CTRL
+        weight: 1
+      - path: superMover_CTRL/body_CTRL/lower_back_CTRL/lower_back_cluster
+        weight: 1
+      - path: superMover_CTRL/body_CTRL/tail_CTRL
+        weight: 1
+      - path: superMover_CTRL/L_foot_CTRL
+        weight: 1
+      - path: superMover_CTRL/L_foot_CTRL/L_ankle_Pivot
+        weight: 1
+      - path: superMover_CTRL/L_foot_CTRL/L_ankle_Pivot/L_toetip_Pivot
+        weight: 1
+      - path: superMover_CTRL/L_foot_CTRL/L_ankle_Pivot/L_toetip_Pivot/L_swivel_Pivot
+        weight: 1
+      - path: superMover_CTRL/L_foot_CTRL/L_ankle_Pivot/L_toetip_Pivot/L_swivel_Pivot/L_heelPeel_Pivot
+        weight: 1
+      - path: superMover_CTRL/L_foot_CTRL/L_ankle_Pivot/L_toetip_Pivot/L_swivel_Pivot/L_heelPeel_Pivot/L_ankle_IK
+        weight: 1
+      - path: superMover_CTRL/L_foot_CTRL/L_ankle_Pivot/L_toetip_Pivot/L_swivel_Pivot/L_toeTap_Pivot
+        weight: 1
+      - path: superMover_CTRL/L_foot_CTRL/L_ankle_Pivot/L_toetip_Pivot/L_swivel_Pivot/L_toeTap_Pivot/L_ball_IK
+        weight: 1
+      - path: superMover_CTRL/L_foot_CTRL/L_ankle_Pivot/L_toetip_Pivot/L_swivel_Pivot/L_toeTap_Pivot/L_toe_IK
+        weight: 1
+      - path: superMover_CTRL/L_foot_CTRL/L_knee_CTRL
+        weight: 1
+      - path: superMover_CTRL/R_foot_CTRL
+        weight: 1
+      - path: superMover_CTRL/R_foot_CTRL/left
+        weight: 1
+      - path: superMover_CTRL/R_foot_CTRL/R_ankle_Pivot
+        weight: 1
+      - path: superMover_CTRL/R_foot_CTRL/R_ankle_Pivot/R_toetip_Pivot
+        weight: 1
+      - path: superMover_CTRL/R_foot_CTRL/R_ankle_Pivot/R_toetip_Pivot/R_swivel_Pivot
+        weight: 1
+      - path: superMover_CTRL/R_foot_CTRL/R_ankle_Pivot/R_toetip_Pivot/R_swivel_Pivot/R_heelPeel_Pivot
+        weight: 1
+      - path: superMover_CTRL/R_foot_CTRL/R_ankle_Pivot/R_toetip_Pivot/R_swivel_Pivot/R_heelPeel_Pivot/R_ankle_IK
+        weight: 1
+      - path: superMover_CTRL/R_foot_CTRL/R_ankle_Pivot/R_toetip_Pivot/R_swivel_Pivot/R_toeTap_Pivot
+        weight: 1
+      - path: superMover_CTRL/R_foot_CTRL/R_ankle_Pivot/R_toetip_Pivot/R_swivel_Pivot/R_toeTap_Pivot/R_ball_IK
+        weight: 1
+      - path: superMover_CTRL/R_foot_CTRL/R_ankle_Pivot/R_toetip_Pivot/R_swivel_Pivot/R_toeTap_Pivot/R_toe_IK
+        weight: 1
+      - path: superMover_CTRL/R_foot_CTRL/R_Knee_CTRL
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
