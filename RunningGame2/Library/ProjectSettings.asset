@@ -9,8 +9,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: 2013_10 - Sample Assets
+  companyName: firealarm
+  productName: test1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_ShowUnitySplashScreen: 1
@@ -89,7 +89,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleIdentifier: com.unity.sampleassets
+  bundleIdentifier: com.firealarm.test1
   bundleVersion: 1.0
   preloadedAssets: []
   metroEnableIndependentInputSource: 0
@@ -374,7 +374,53 @@ PlayerSettings:
   metroTileBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
   metroSplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
   metroSplashScreenUseBackgroundColor: 0
-  platformCapabilities: {}
+  platformCapabilities:
+    WindowsStoreApps:
+      AccountRead: False
+      AccountWrite: False
+      AlarmGet: False
+      AlarmSet: False
+      AppManagerLaunch: False
+      Bluetooth: False
+      CalendarRead: False
+      CalendarWrite: False
+      Call: False
+      CallHistoryRead: False
+      CallHistoryWrite: False
+      Camera: False
+      ContactRead: False
+      ContactWrite: False
+      ContentWrite: False
+      DataSharing: False
+      Display: False
+      Download: False
+      Email: False
+      ExternalStorage: False
+      ExternalStorageAppData: False
+      Haptic: False
+      Internet: False
+      KeyManager: False
+      LED: False
+      Location: False
+      MediaStorage: False
+      MessageRead: False
+      MessageWrite: False
+      NFC: False
+      NFCCardEmulation: False
+      NetworkGet: False
+      NetworkProfile: False
+      NetworkSet: False
+      Notification: False
+      PackageManagerInfo: False
+      Power: False
+      Push: False
+      Recorder: False
+      Shortcut: False
+      SystemSettings: False
+      Telephony: False
+      VolumeSet: False
+      WifiDirect: False
+      WindowPrioritySet: False
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
@@ -397,9 +443,9 @@ PlayerSettings:
   blackberryLandscapeSplashScreen: {fileID: 0}
   blackberryPortraitSplashScreen: {fileID: 0}
   blackberrySquareSplashScreen: {fileID: 0}
-  tizenProductDescription: 
+  tizenProductDescription: pikachu running game
   tizenProductURL: 
-  tizenSigningProfileName: 
+  tizenSigningProfileName: firealarm
   tizenGPSPermissions: 0
   tizenMicrophonePermissions: 0
   n3dsUseExtSaveData: 0
