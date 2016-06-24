@@ -3,7 +3,7 @@ using System.Collections;
 
 public class GroundScript : MonoBehaviour {
     //Material texture offset rate
-    float speed = 1.2f;
+    float speed = .5f;
 
     //Offset the material texture at a constant rate
     void Update()
